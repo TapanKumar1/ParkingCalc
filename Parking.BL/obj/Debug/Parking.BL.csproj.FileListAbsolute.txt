@@ -1,0 +1,15 @@
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\Parking.BL.dll
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\Parking.BL.pdb
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\CommonLib.dll
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\Parking.Data.dll
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\Parking.Model.dll
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\SimpleInjector.dll
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\EntityFramework.dll
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\CommonLib.pdb
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\Parking.Data.pdb
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\Parking.Model.pdb
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\SimpleInjector.xml
+D:\Parking Calculator\Parking\Parking.BL\bin\Debug\EntityFramework.xml
+D:\Parking Calculator\Parking\Parking.BL\obj\Debug\Parking.BL.csprojResolveAssemblyReference.cache
+D:\Parking Calculator\Parking\Parking.BL\obj\Debug\Parking.BL.dll
+D:\Parking Calculator\Parking\Parking.BL\obj\Debug\Parking.BL.pdb

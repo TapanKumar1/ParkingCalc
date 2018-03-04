@@ -1,0 +1,10 @@
+D:\Parking Calculator\Parking\CommonLib\obj\Debug\CommonLib.csprojResolveAssemblyReference.cache
+D:\Parking Calculator\Parking\CommonLib\bin\Debug\CommonLib.dll.config
+D:\Parking Calculator\Parking\CommonLib\bin\Debug\CommonLib.dll
+D:\Parking Calculator\Parking\CommonLib\bin\Debug\CommonLib.pdb
+D:\Parking Calculator\Parking\CommonLib\bin\Debug\EntityFramework.dll
+D:\Parking Calculator\Parking\CommonLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\Parking Calculator\Parking\CommonLib\bin\Debug\EntityFramework.xml
+D:\Parking Calculator\Parking\CommonLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\Parking Calculator\Parking\CommonLib\obj\Debug\CommonLib.dll
+D:\Parking Calculator\Parking\CommonLib\obj\Debug\CommonLib.pdb

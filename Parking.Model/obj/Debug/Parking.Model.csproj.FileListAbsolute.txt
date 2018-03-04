@@ -1,0 +1,5 @@
+D:\Parking Calculator\Parking\Parking.Model\bin\Debug\Parking.Model.dll
+D:\Parking Calculator\Parking\Parking.Model\bin\Debug\Parking.Model.pdb
+D:\Parking Calculator\Parking\Parking.Model\obj\Debug\Parking.Model.dll
+D:\Parking Calculator\Parking\Parking.Model\obj\Debug\Parking.Model.pdb
+D:\Parking Calculator\Parking\Parking.Model\obj\Debug\Parking.Model.csprojResolveAssemblyReference.cache

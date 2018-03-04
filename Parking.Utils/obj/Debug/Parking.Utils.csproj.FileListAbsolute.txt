@@ -1,0 +1,7 @@
+D:\Parking Calculator\Parking\Parking.Utils\bin\Debug\Parking.Utils.dll
+D:\Parking Calculator\Parking\Parking.Utils\bin\Debug\Parking.Utils.pdb
+D:\Parking Calculator\Parking\Parking.Utils\obj\Debug\Parking.Utils.dll
+D:\Parking Calculator\Parking\Parking.Utils\obj\Debug\Parking.Utils.pdb
+D:\Parking Calculator\Parking\Parking.Utils\bin\Debug\Parking.Model.dll
+D:\Parking Calculator\Parking\Parking.Utils\bin\Debug\Parking.Model.pdb
+D:\Parking Calculator\Parking\Parking.Utils\obj\Debug\Parking.Utils.csprojResolveAssemblyReference.cache
